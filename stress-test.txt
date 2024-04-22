@@ -1,0 +1,161 @@
+Total hash creation time: 539.213ms
+hashes
+[
+  'SE7HWq', 'pXh45D',
+  'L7zyRS', 'BYDbTk',
+  'Zc4q5C', 'QgNuWn',
+  'RuRNwp', 'aSyBKg',
+  'yY1etD', 'WBBegY'
+]
+Title: SE7HWq
+{ 'Tiempo total': '4 s', 'Promedio de latencia': '27.01 ms' }
+Title: pXh45D
+{ 'Tiempo total': '4.01 s', 'Promedio de latencia': '30.77 ms' }
+Title: L7zyRS
+{ 'Tiempo total': '4.01 s', 'Promedio de latencia': '30.23 ms' }
+Title: BYDbTk
+{ 'Tiempo total': '4.01 s', 'Promedio de latencia': '32.34 ms' }
+Title: Zc4q5C
+{ 'Tiempo total': '5.01 s', 'Promedio de latencia': '33.6 ms' }
+Title: QgNuWn
+{ 'Tiempo total': '4.01 s', 'Promedio de latencia': '33.97 ms' }
+Title: RuRNwp
+{ 'Tiempo total': '5.01 s', 'Promedio de latencia': '35.45 ms' }
+Title: aSyBKg
+{ 'Tiempo total': '5.02 s', 'Promedio de latencia': '36.97 ms' }
+Title: yY1etD
+{ 'Tiempo total': '5.01 s', 'Promedio de latencia': '38.27 ms' }
+Title: WBBegY
+{ 'Tiempo total': '5.01 s', 'Promedio de latencia': '37.75 ms' }
+Total stress time: 5.031s
+
+
+
+Total hash creation time: 3.656s
+hashes
+[
+  '7V6bTS', 'XKYNAY', 'zsmELh',
+  '2ZDY7g', 'E9GTat', 'qzdua5',
+  'XUfZUW', 'XbA6sQ', 'LWwVpA',
+  'czUpXu', 'bApGaU', 'DHv22U',
+  'sb8Z7K', 'NwVyfA', 'n8ZtLF',
+  'dd21w5', 'zxNnvB', 'sv8BVs',
+  '8kXqes', 'uFd3b2'
+]
+Title: 7V6bTS
+{ 'Tiempo total': '5.01 s', 'Promedio de latencia': '27.96 ms' }
+Title: XKYNAY
+{ 'Tiempo total': '6.01 s', 'Promedio de latencia': '41.51 ms' }
+Title: zsmELh
+{ 'Tiempo total': '6.01 s', 'Promedio de latencia': '48.73 ms' }
+Title: 2ZDY7g
+{ 'Tiempo total': '6.01 s', 'Promedio de latencia': '89.47 ms' }
+Title: E9GTat
+{ 'Tiempo total': '6.01 s', 'Promedio de latencia': '106.07 ms' }
+Title: qzdua5
+{ 'Tiempo total': '6.01 s', 'Promedio de latencia': '101.73 ms' }
+Title: XUfZUW
+{ 'Tiempo total': '6.02 s', 'Promedio de latencia': '105.48 ms' }
+Title: XbA6sQ
+{ 'Tiempo total': '6.02 s', 'Promedio de latencia': '52.64 ms' }
+Title: LWwVpA
+{ 'Tiempo total': '5.01 s', 'Promedio de latencia': '41.3 ms' }
+Title: czUpXu
+{ 'Tiempo total': '5.01 s', 'Promedio de latencia': '40.96 ms' }
+Title: bApGaU
+{ 'Tiempo total': '6.01 s', 'Promedio de latencia': '44.9 ms' }
+Title: DHv22U
+{ 'Tiempo total': '6.01 s', 'Promedio de latencia': '45.4 ms' }
+Title: sb8Z7K
+{ 'Tiempo total': '6.01 s', 'Promedio de latencia': '50.96 ms' }
+Title: NwVyfA
+{ 'Tiempo total': '6.01 s', 'Promedio de latencia': '57.63 ms' }
+Title: n8ZtLF
+{ 'Tiempo total': '7.01 s', 'Promedio de latencia': '58.96 ms' }
+Title: dd21w5
+{ 'Tiempo total': '7.02 s', 'Promedio de latencia': '60.92 ms' }
+Title: zxNnvB
+{ 'Tiempo total': '7.02 s', 'Promedio de latencia': '61.14 ms' }
+Title: sv8BVs
+{ 'Tiempo total': '7.02 s', 'Promedio de latencia': '58.95 ms' }
+Title: 8kXqes
+{ 'Tiempo total': '7.02 s', 'Promedio de latencia': '60.19 ms' }
+Title: uFd3b2
+{ 'Tiempo total': '6 s', 'Promedio de latencia': '54.2 ms' }
+Total stress time: 7.051s
+
+Total hash creation time: 809.505ms
+hashes
+[
+  'W8RC5b', '3P6TfK', 'WhW7sU',
+  'mV7fKw', 'DewbgY', 'MdQSnm',
+  'BAV5vs', 'LLVbkY', '3mtSZB',
+  'uKeYqX', 'U1cSTH', 'hEfR3U',
+  'uC5RBy', 'RFvfzB', 'YFrZZd',
+  'nvAUsL', '1fC3Gz', '9QEU5y',
+  'eb9KMY', 'b9yegR', 'n6ne1s',
+  'f4GRTV', '4vnPKv', 'mRHTxZ',
+  'mVEKCz', 'qpAZEE', 'Zw8WVx',
+  '5FMuHe', 'tXshmK', 'KpuB6P'
+]
+Title: W8RC5b
+{ 'Tiempo total': '8.01 s', 'Promedio de latencia': '44.36 ms' }
+Title: 3P6TfK
+{ 'Tiempo total': '8.01 s', 'Promedio de latencia': '58.74 ms' }
+Title: WhW7sU
+{ 'Tiempo total': '7.01 s', 'Promedio de latencia': '45.52 ms' }
+Title: mV7fKw
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '117.03 ms' }
+Title: DewbgY
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '135.36 ms' }
+Title: MdQSnm
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '139.34 ms' }
+Title: BAV5vs
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '138.63 ms' }
+Title: LLVbkY
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '141.6 ms' }
+Title: 3mtSZB
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '148.2 ms' }
+Title: uKeYqX
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '149.34 ms' }
+Title: U1cSTH
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '145.44 ms' }
+Title: hEfR3U
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '142.7 ms' }
+Title: uC5RBy
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '148.53 ms' }
+Title: RFvfzB
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '150.22 ms' }
+Title: YFrZZd
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '147.94 ms' }
+Title: nvAUsL
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '149.26 ms' }
+Title: 1fC3Gz
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '56.61 ms' }
+Title: 9QEU5y
+{ 'Tiempo total': '7 s', 'Promedio de latencia': '49.16 ms' }
+Title: eb9KMY
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '64.3 ms' }
+Title: b9yegR
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '85.33 ms' }
+Title: n6ne1s
+{ 'Tiempo total': '7.01 s', 'Promedio de latencia': '55.79 ms' }
+Title: f4GRTV
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '68.53 ms' }
+Title: 4vnPKv
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '71.29 ms' }
+Title: mRHTxZ
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '79.43 ms' }
+Title: mVEKCz
+{ 'Tiempo total': '7.01 s', 'Promedio de latencia': '61.89 ms' }
+Title: qpAZEE
+{ 'Tiempo total': '7.01 s', 'Promedio de latencia': '62.34 ms' }
+Title: Zw8WVx
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '71.21 ms' }
+Title: 5FMuHe
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '71.79 ms' }
+Title: tXshmK
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '72.16 ms' }
+Title: KpuB6P
+{ 'Tiempo total': '8.02 s', 'Promedio de latencia': '65.69 ms' }
+Total stress time: 8.071s

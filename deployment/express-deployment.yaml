@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: app
+  template:
+    metadata:
+      labels:
+        app: app
+    spec:
+      containers:
+        - name: app
+          image: 38831760/url-shortener:0.4.0
+          ports:
+            - containerPort: 3000
+          # env:
+          #   - name: URL_REDIS
+          #     value: redis

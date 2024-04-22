@@ -1,0 +1,6 @@
+kubectl apply -f deployment/redis-deployment.yaml
+kubectl apply -f deployment/redis-service.yaml
+kubectl apply -f deployment/express-deployment.yaml
+kubectl apply -f deployment/express-service.yaml
+
+helm install my-redis bitnami/redis
